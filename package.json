@@ -1,5 +1,5 @@
 {
-    "name": "react-portfolio",
+    "name": "kimmyhill",
     "version": "1.0.0",
     "homepage": "https://kimmy-hill.github.io/React-Portfolio/",
     "private": true,
@@ -19,7 +19,8 @@
         "react": "^18.1.0",
         "react-dom": "^18.1.0",
         "react-scripts": "^5.0.1",
-        "web-vitals": "^2.1.4"
+        "web-vitals": "^2.1.4",
+        "yarn": "^1.22.18"
     },
     "scripts": {
         "predeploy": "npm run build",
@@ -46,5 +47,9 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
-    }
+    },
+    "description": "react",
+    "main": "index.js",
+    "author": "kimmyhill",
+    "license": "MIT"
 }
