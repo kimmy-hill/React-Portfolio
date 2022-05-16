@@ -19,6 +19,7 @@ const name = "Kim Hill"
               <ul className="navbar-nav">
                 <Nav page = "About Me" setCurrentPage = {setCurrentPage}  currentPage = {currentPage}/>
                 <Nav page = "Portfolio" setCurrentPage = {setCurrentPage} currentPage = {currentPage}/>
+                <Nav page = "Contact" setCurrentPage = {setCurrentPage} currentPage = {currentPage}/>
                 <Nav page = "Resume" setCurrentPage = {setCurrentPage} currentPage = {currentPage}/>
               </ul>
           </div>

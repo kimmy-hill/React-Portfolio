@@ -7,6 +7,7 @@ import Header from './components/header'
 import Footer from './components/footer'
 import AboutMe from './components/aboutme'
 import Portfolio from './components/portfolio'
+import Contact from './components/contact'
 import Resume from './components/resume'
 
 
@@ -25,6 +26,9 @@ return <AboutMe/>
 break;
 case "Portfolio":
 return <Portfolio/>
+break;
+case "Contact":
+return <Contact/>
 break;
 case "Resume":
 return <Resume/>
