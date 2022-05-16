@@ -36,3 +36,4 @@ Mock-Up:
 
 
 Deployed Link:
+https://kimmy-hill.github.io/React-Portfolio/
